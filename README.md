@@ -1,1 +1,1 @@
-# JavaScript
+# SyedaNaqvi Portfolio
